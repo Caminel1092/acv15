@@ -1,0 +1,8 @@
+.wrapper--stuck :global(.vtex-store-components-3-x-logoLink) {
+  transform: scale(1);
+}
+
+.wrapper--StickyP--stuck {position: absolute !important;}
+.container--sticky-header {
+  background: white;
+}
